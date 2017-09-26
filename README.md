@@ -1,4 +1,4 @@
-# number_to_world[![Build Status](https://travis-ci.org/selvathiruarul/number_to_world.svg?branch=master)](https://travis-ci.org/selvathiruarul/number_to_world)
+# number_to_word[![Build Status](https://travis-ci.org/selvathiruarul/number_to_word.svg?branch=master)](https://travis-ci.org/selvathiruarul/number_to_word)
 process to get response from twitter and visualize using wordcloud
 
 ## prerequisites
