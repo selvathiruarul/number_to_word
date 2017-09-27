@@ -8,7 +8,7 @@ process to get response from twitter and visualize using wordcloud
 Steps to execute:
 ----------------
 1. *pip install -r requirements.txt*
-2. python number_to_world main.py 
+2. python number_to_world main.py -n <1545221>
 
 Contribute and Grow
 -------------------
